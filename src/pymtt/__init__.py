@@ -1,1 +1,0 @@
-from pymtt.mechtatel import *
