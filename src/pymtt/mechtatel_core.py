@@ -105,7 +105,3 @@ class MechtatelCore(object):
     
     def duplicate_model3d(self,src_model:JavaClass)->JavaClass:
         return self.__mechtatel.duplicateModel3D(src_model)
-    
-    
-
-    
